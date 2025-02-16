@@ -26,13 +26,14 @@ Steps to Run the Application
 1. Clone the Repository
   
    git clone https://github.com/dhivyaraj16/personaldiary
+   
    cd diary-management
   
-2. Compile the Java Files
+3. Compile the Java Files
    
    javac DiaryManagement.java
    
-3. Run the Application
+4. Run the Application
    
    java DiaryManagement
    
