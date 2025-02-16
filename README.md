@@ -25,7 +25,7 @@ Prerequisites
 Steps to Run the Application
 1. Clone the Repository
   
-   git clone https://github.com/your-username/diary-management.git
+   git clone https://github.com/dhivyaraj16/personaldiary
    cd diary-management
   
 2. Compile the Java Files
